@@ -53,6 +53,11 @@
 * in practise, a linear search may be more performant up to a certain value of n
 * best case (not really useful), average case (talk about this later), worst cases (of most interest)
 
+### Big O: log base 2 or log base 10??
+* Big O notation is usually written showing only the asymptotically highest order of `n`
+* in Big O notation, `O(log n)` is the same for all bases, it doesn't matter what base it is
+* we generally disregard constants in complexity analysis (log base 2 and log base 10 are related by a constant factor)
+
 ### What is a recursive algorithm?
 * involves a set of stopping conditions (base case)
 * must change its state and move toward the base case
