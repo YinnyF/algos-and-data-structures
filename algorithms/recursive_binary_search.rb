@@ -1,9 +1,9 @@
 # assumes array is already sorted asc.
 # returns the index position of the target if found, else returns -1
 # time complexity: O(log n)
-
+# space complexity: O(log n) since sublists are being created, additional memory is allocated (Ruby & Python)
 # why the extra parameters? A slicing operation is not a constant time operation and has a runtime of O(k) where k represents the size of the slice.
-# recursion vs iteration? 
+# recursion vs iteration? iteration
 
 def recursive_binary_search(array, target, first = 0, last = array.length - 1)
   if first > last

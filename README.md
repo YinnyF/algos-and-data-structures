@@ -11,3 +11,7 @@ Learning tried and true algorithms and storing my learning progress here.
 * [Algorithms introduction](./algorithms/algorithms.md)
 
 ### <a name="data-structs">Data Structures</a>
+
+## Resources
+https://www.bigocheatsheet.com/
+https://www.honeybadger.io/blog/a-rubyist-s-guide-to-big-o-notation/

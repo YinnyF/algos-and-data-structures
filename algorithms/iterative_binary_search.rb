@@ -1,6 +1,7 @@
 # assumes array is already sorted asc.
 # returns the index position of the target if found, else returns -1
 # time complexity: O(log n)
+# space complexity: O(1) constant space because no additional space is needed
 
 def iterative_binary_search(array, target)
   first = 0
