@@ -18,5 +18,5 @@ Learning tried and true algorithms and storing my learning progress here.
 * [Trie Structure](data_structures/trie.rb)
 
 ## Resources
-https://www.bigocheatsheet.com/
-https://www.honeybadger.io/blog/a-rubyist-s-guide-to-big-o-notation/
+* https://www.bigocheatsheet.com/
+* https://www.honeybadger.io/blog/a-rubyist-s-guide-to-big-o-notation/
