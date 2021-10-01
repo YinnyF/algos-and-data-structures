@@ -66,6 +66,16 @@
 | find | - |
 | access | - |
 
+### Trees
+* Trees are non-linear data structures, it organises data in a hierarchial way
+* Trees are a collection of `nodes` and `edges`
+* each node contains a value or data, and can have a child node
+* first node of a tree is called a `root`
+* `nodes` are connected by links we call `edges`, it is the relationship between 2 nodes
+* `leafs` are the last nodes from the tree (nodes without children)
+* `height` of a tree is the length of the longest path to a leaf
+* `depth` of a node is the length of the path to it's root
+
 ### Binary Trees
 * no built-in binary tree implementation
 * many variations of trees
