@@ -96,9 +96,10 @@
 | words | O(k) |
 _k denotes the size of the input string_
 
-
 <!-- ### Why do we need more data structures than a programming language provides? -->
 
+### What is a linear data structure?
+* Arrays, Linked Lists, Queues and Stacks are examples of linear data structures because they all have a logical start and a logical end
 
 ### Resources
 https://www.rubyguides.com/2019/04/ruby-data-structures/
