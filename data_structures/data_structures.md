@@ -20,6 +20,9 @@
 * used as a base for more advanced data structures
 * used to gather results from running a loop
 * used to collect items
+* pretty bad at searching (linear search)
+* space (memory) allocation is reallocated every 4 elements (in Python)(See Amortized Constant Space Complexity)
+
 
 ### Ruby Arrays time complexity
 | Operation | Complexity |
@@ -29,6 +32,7 @@
 | access | O(1) |
 | find | O(n) |
 | delete | O(n) |
+| insert | O(n) | 
 
 ### Hashes
 * a hash converts your key into a number (using the hash method in Ruby) & then uses that number as the index
