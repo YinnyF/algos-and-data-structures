@@ -75,10 +75,11 @@
 * `leafs` are the last nodes from the tree (nodes without children)
 * `height` of a tree is the length of the longest path to a leaf
 * `depth` of a node is the length of the path to it's root
+* there are many variations of trees
 
 ### Binary Trees
 * no built-in binary tree implementation
-* many variations of trees
+* a binary tree is a tree data structure in which each node has at most two child nodes (`left child` and `right child`)
 * uses: data compression, routing tables, abstract syntax trees (AST)
 
 ### Ruby Binary Tree time complexity
